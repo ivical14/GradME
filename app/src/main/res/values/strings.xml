@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradME</string>
+    <string name="no_categories">How many categories do you want?</string>
+</resources>
